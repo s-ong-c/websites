@@ -13131,6 +13131,7 @@ __metadata:
     "@babel/plugin-transform-react-jsx": 7.17.3
     "@babel/plugin-transform-typescript": 7.16.8
     "@karrotmarket/gatsby-theme-global-website": "*"
+    "@seed-design/stylesheet": alpha
     babel-plugin-polished: 1.1.0
     framer-motion: 4.1.17
     gatsby: 4.14.0
